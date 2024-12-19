@@ -85,7 +85,7 @@ You have two options to download the dataset:
 
 **Option 1: Download Manually**
 
-Visit the Kaggle competition page.
+Visit the **Kaggle Competition** page.
 
 **Download** the files:
 - train_data.csv
